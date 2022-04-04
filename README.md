@@ -21,4 +21,37 @@ example :
 [![oakoudad's 42 stats](https://badge.mediaplus.ma/darkblue/oakoudad](https://github.com/oakoudad/badge42)
 ```
 
-[![oakoudad's 42 stats](https://badge.mediaplus.ma/darkblue/oakoudad)](https://github.com/oakoudad/badge42)
+<figure>
+  <img src="https://badge.mediaplus.ma/darkblue/oakoudad" alt="Darkblue" title="Darkblue" />
+  <figcaption>Darkblue</figcaption>
+</figure>
+
+<figure>
+  <img src="https://badge.mediaplus.ma/darkgray/oakoudad" alt="Darkgray" title="Darkgray" />
+  <figcaption>Darkgray</figcaption>
+</figure>
+
+<figure>
+  <img src="https://badge.mediaplus.ma/darkblue/oakoudad" alt="Black" title="Black" />
+  <figcaption>Black</figcaption>
+</figure>
+
+<figure>
+  <img src="https://badge.mediaplus.ma/honeytones/oakoudad" alt="honeytones" title="Honeytones" />
+  <figcaption>Honeytones</figcaption>
+</figure>
+
+<figure>
+  <img src="https://badge.mediaplus.ma/kettlebells/oakoudad" alt="kettlebells" title="Kettlebells" />
+  <figcaption>Kettlebells</figcaption>
+</figure>
+
+<figure>
+  <img src="https://badge.mediaplus.ma/landscapes/oakoudad" alt="Landscapes" title="Landscapes" />
+  <figcaption>Landscapes</figcaption>
+</figure>
+
+<figure>
+  <img src="https://badge.mediaplus.ma/starryblue/oakoudad" alt="Starryblue" title="Starryblue" />
+  <figcaption>Starryblue</figcaption>
+</figure>
