@@ -9,7 +9,7 @@ or you can just change username in the link :
 [![<username>'s 42 stats](https://badge.mediaplus.ma/darkblue/<username>](https://github.com/oakoudad/badge42)
 ```
 
-and choise a badge theme beetwin this `darkblue`, `darkgray`, `black`, `honeytones`, `kettlebells`, `landscapes`, `starryblue`, `binary`, `greenbinary`, `water`, `colorfulwaves`, `levi` :
+and choose a badge theme between this `darkblue`, `darkgray`, `black`, `honeytones`, `kettlebells`, `landscapes`, `starryblue`, `binary`, `greenbinary`, `water`, `colorfulwaves`, `levi` :
 
 ```
 [![<username>'s 42 stats](https://badge.mediaplus.ma/<theme>/<username>](https://github.com/oakoudad/badge42)
