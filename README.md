@@ -17,12 +17,8 @@ and choose a badge theme between this `darkblue`, `darkgray`, `black`, `honeyton
 
 example :
 
-```
-[![oakoudad's 42 stats](https://badge.mediaplus.ma/darkblue/oakoudad](https://github.com/oakoudad/badge42)
-```
-
 <figure>
-  <img src="https://badge.mediaplus.ma/darkblue/oakoudad" alt="Darkblue" title="Darkblue" />
+  <img src="./example/darkblue.svg" alt="Darkblue" title="Darkblue" />
   <figcaption>Darkblue</figcaption>
 </figure>
 
