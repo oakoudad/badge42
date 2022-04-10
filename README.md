@@ -18,36 +18,36 @@ and choose a badge theme between this `darkblue`, `darkgray`, `black`, `honeyton
 example :
 
 <figure>
-  <img src="./example/darkblue.svg" alt="Darkblue" title="Darkblue" />
   <figcaption>Darkblue</figcaption>
+  <img src="./example/darkblue.svg" alt="Darkblue" title="Darkblue" />
 </figure>
 
 <figure>
-  <img src="./example/darkgray.svg" alt="Darkgray" title="Darkgray" />
   <figcaption>Darkgray</figcaption>
+  <img src="./example/darkgray.svg" alt="Darkgray" title="Darkgray" />
 </figure>
 
 <figure>
-  <img src="./example/black.svg" alt="Black" title="Black" />
   <figcaption>Black</figcaption>
+  <img src="./example/black.svg" alt="Black" title="Black" />
 </figure>
 
 <figure>
-  <img src="./example/honeytones.svg" alt="honeytones" title="Honeytones" />
   <figcaption>Honeytones</figcaption>
+  <img src="./example/honeytones.svg" alt="honeytones" title="Honeytones" />
 </figure>
 
 <figure>
-  <img src="./example/kettlebells.svg" alt="kettlebells" title="Kettlebells" />
   <figcaption>Kettlebells</figcaption>
+  <img src="./example/kettlebells.svg" alt="kettlebells" title="Kettlebells" />
 </figure>
 
 <figure>
-  <img src="./example/landscapes.svg" alt="Landscapes" title="Landscapes" />
   <figcaption>Landscapes</figcaption>
+  <img src="./example/landscapes.svg" alt="Landscapes" title="Landscapes" />
 </figure>
 
 <figure>
-  <img src="./example/starryblue.svg" alt="Starryblue" title="Starryblue" />
   <figcaption>Starryblue</figcaption>
+  <img src="./example/starryblue.svg" alt="Starryblue" title="Starryblue" />
 </figure>
