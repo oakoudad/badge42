@@ -23,31 +23,31 @@ example :
 </figure>
 
 <figure>
-  <img src="https://badge.mediaplus.ma/darkgray/oakoudad" alt="Darkgray" title="Darkgray" />
+  <img src="./example/darkgray.svg" alt="Darkgray" title="Darkgray" />
   <figcaption>Darkgray</figcaption>
 </figure>
 
 <figure>
-  <img src="https://badge.mediaplus.ma/darkblue/oakoudad" alt="Black" title="Black" />
+  <img src="./example/black.svg" alt="Black" title="Black" />
   <figcaption>Black</figcaption>
 </figure>
 
 <figure>
-  <img src="https://badge.mediaplus.ma/honeytones/oakoudad" alt="honeytones" title="Honeytones" />
+  <img src="./example/honeytones.svg" alt="honeytones" title="Honeytones" />
   <figcaption>Honeytones</figcaption>
 </figure>
 
 <figure>
-  <img src="https://badge.mediaplus.ma/kettlebells/oakoudad" alt="kettlebells" title="Kettlebells" />
+  <img src="./example/kettlebells.svg" alt="kettlebells" title="Kettlebells" />
   <figcaption>Kettlebells</figcaption>
 </figure>
 
 <figure>
-  <img src="https://badge.mediaplus.ma/landscapes/oakoudad" alt="Landscapes" title="Landscapes" />
+  <img src="./example/landscapes.svg" alt="Landscapes" title="Landscapes" />
   <figcaption>Landscapes</figcaption>
 </figure>
 
 <figure>
-  <img src="https://badge.mediaplus.ma/starryblue/oakoudad" alt="Starryblue" title="Starryblue" />
+  <img src="./example/starryblue.svg" alt="Starryblue" title="Starryblue" />
   <figcaption>Starryblue</figcaption>
 </figure>
