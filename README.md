@@ -52,7 +52,7 @@ example :
   <img src="./example/starryblue.svg" alt="Starryblue" title="Starryblue" />
 </figure>
 
-Animated :
+<h1>Animated<h1>
 
 <figure>
   <figcaption>Binary :</figcaption>
