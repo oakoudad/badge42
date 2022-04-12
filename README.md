@@ -12,12 +12,12 @@ or you can just change username in the link :
 and choose a badge theme between this `darkblue`, `darkgray`, `black`, `honeytones`, `kettlebells`, `landscapes`, `starryblue`, `binary`, `greenbinary`, `water`, `colorfulwaves`, `levi` :
 
 ```
-[![<username>'s 42 stats](https://badge.mediaplus.ma/<theme>/<username>](https://github.com/oakoudad/badge42)
+[![<username>'s 42 stats](https://badge.mediaplus.ma/<theme>/<username>)](https://github.com/oakoudad/badge42)
 ```
 
 example :
 
-[![oakoudad's 42 stats](https://badge.mediaplus.ma/darkblue/oakoudad](https://github.com/oakoudad/badge42)
+[![oakoudad's 42 stats](https://badge.mediaplus.ma/darkblue/oakoudad)](https://github.com/oakoudad/badge42)
 
 ### Darkblue :
 <figure>
