@@ -6,7 +6,7 @@ You can use the following [link](https://badge.mediaplus.ma) to generate your ow
 or you can just change username in the link :
 
 ```
-[![<username>'s 42 stats](https://badge.mediaplus.ma/darkblue/<username>](https://github.com/oakoudad/badge42)
+[![<username>'s 42 stats](https://badge.mediaplus.ma/darkblue/<username>)](https://github.com/oakoudad/badge42)
 ```
 
 and choose a badge theme between this `darkblue`, `darkgray`, `black`, `honeytones`, `kettlebells`, `landscapes`, `starryblue`, `binary`, `greenbinary`, `water`, `colorfulwaves`, `levi` :
