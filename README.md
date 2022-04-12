@@ -18,63 +18,63 @@ and choose a badge theme between this `darkblue`, `darkgray`, `black`, `honeyton
 example :
 
 <figure>
-  <figcaption>Darkblue :</figcaption>
+  ### Darkblue :
   <img src="./example/darkblue.svg" alt="Darkblue" title="Darkblue" />
 </figure>
 
 <figure>
-  <figcaption>Darkgray :</figcaption>
+  ### Darkgray :
   <img src="./example/darkgray.svg" alt="Darkgray" title="Darkgray" />
 </figure>
 
 <figure>
-  <figcaption>Black :</figcaption>
+  ### Black :
   <img src="./example/black.svg" alt="Black" title="Black" />
 </figure>
 
 <figure>
-  <figcaption>Honeytones :</figcaption>
+  ### Honeytones :
   <img src="./example/honeytones.svg" alt="honeytones" title="Honeytones" />
 </figure>
 
 <figure>
-  <figcaption>Kettlebells :</figcaption>
+  ### Kettlebells :
   <img src="./example/kettlebells.svg" alt="kettlebells" title="Kettlebells" />
 </figure>
 
 <figure>
-  <figcaption>Landscapes :</figcaption>
+  ### Landscapes :
   <img src="./example/landscapes.svg" alt="Landscapes" title="Landscapes" />
 </figure>
 
 <figure>
-  <figcaption>Starryblue :</figcaption>
+  ### Starryblue :
   <img src="./example/starryblue.svg" alt="Starryblue" title="Starryblue" />
 </figure>
 
 <h1>Animated</h1>
 
 <figure>
-  <figcaption>Binary :</figcaption>
+  ### Binary :
   <img src="./example/binary.svg" alt="Binary" title="Binary" />
 </figure>
 
 <figure>
-  <figcaption>Green binary :</figcaption>
+  ### Green binary :
   <img src="./example/greenbinary.svg" alt="Green binary" title="Green binary" />
 </figure>
 
 <figure>
-  <figcaption>Water :</figcaption>
+  ### Water :
   <img src="./example/water.svg" alt="Water" title="Water" />
 </figure>
 
 <figure>
-  <figcaption>Colorful waves :</figcaption>
+  ### Colorful waves :
   <img src="./example/colorfulwaves.svg" alt="Colorful waves" title="Colorful waves" />
 </figure>
 
 <figure>
-  <figcaption>Levi :</figcaption>
+  ### Levi :
   <img src="./example/levi.svg" alt="Levi" title="Levi" />
 </figure>
