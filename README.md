@@ -80,3 +80,7 @@ example :
 <figure>
   <img src="./example/levi.svg" alt="Levi" title="Levi" />
 </figure>
+
+
+
+<img src="./example/darkblue.svg" alt="Darkblue" title="Darkblue" /><img src="./example/darkgray.svg" alt="Darkgray" title="Darkgray" /><img src="./example/black.svg" alt="Black" title="Black" /><img src="./example/honeytones.svg" alt="honeytones" title="Honeytones" />
